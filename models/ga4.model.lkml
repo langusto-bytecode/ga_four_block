@@ -1,3 +1,3 @@
-connection: "looker_partner_demo"
+connection: "ecommerce"
 
 include: "./ga4_model.includes.lkml"
